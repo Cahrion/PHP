@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteRule	^uye-giris$	/AstroGorya/index.php?SK=31 [L,NC]
+RewriteRule	^yeni-uye-kayit$	/AstroGorya/index.php?SK=22 [L,NC]
+RewriteRule	^kadin-ayakkabilari$	/AstroGorya/index.php?SK=85 [L,NC]
+RewriteRule	^kadin-ayakkabilari/(.*)/(.*)$	/AstroGorya/index.php?SK=83&ID=$2 [L,NC]

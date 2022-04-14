@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: darkblue;
+	color: aliceblue;
+}
+div#Deneme {
+	color: yellow;
+}
+div#Deneme2 {
+	color: blue;
+}
+#Deneme3 {
+	color: gray;
+}
+#Deneme4 {
+	color: red;
+}

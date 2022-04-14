@@ -1,0 +1,1 @@
+Burası Sonuc.php sayfasıdır.

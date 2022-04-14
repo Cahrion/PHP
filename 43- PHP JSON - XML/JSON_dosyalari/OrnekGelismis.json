@@ -1,0 +1,28 @@
+{
+	"Firma" : "Extra Eğitim",
+	"Ogrenci" : "Icabi Kırgız",
+	"Egitimler" : [
+		"HTML",
+		"CSS3",
+		"JS",
+		"PHP"
+	],
+	"Egitmenler": [
+		{
+			"Adi" : "Hakan Alakent",
+			"Ders": "HTML"
+		},
+		{
+			"Adi" : "Onur Tatlı",
+			"Ders": "CSS3"
+		},
+		{
+			"Adi" : "Ümit Okudan",
+			"Ders": "JS"
+		},
+		{
+			"Adi" : "Serkan Çelik",
+			"Ders": "PHP"
+		}
+	]
+}

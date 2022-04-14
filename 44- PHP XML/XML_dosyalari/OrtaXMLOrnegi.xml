@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root> 
+	<FIRMA>Extra Eğitim</FIRMA>
+	<OGRENCI>Icabi Kırgız</OGRENCI>
+	<EGITIMLER>
+		<KURS id="Bir">HTML5</KURS>
+		<KURS id="Iki">CSS3</KURS>
+		<KURS id="Uc">JAVASCRIPT</KURS>
+		<KURS id="Dort">PHP7</KURS>
+	</EGITIMLER>
+	<EGITMENLER>
+		<EGITMEN id="1" seviye="Uzman">
+			<ADI>Volkan Alakent</ADI>
+			<KURSADI>PHP7</KURSADI>
+		</EGITMEN>
+		<EGITMEN id="2" seviye="Orta">
+			<ADI>Hakan Alakent</ADI>
+			<KURSADI>HTML5</KURSADI>
+		</EGITMEN>
+		<EGITMEN id="3" seviye="Ileri">
+			<ADI>Onur Tatlı</ADI>
+			<KURSADI>CSS3</KURSADI>
+		</EGITMEN>
+		<EGITMEN id="4" seviye="Baslangic">
+			<ADI>Ümit Okudan</ADI>
+			<KURSADI>JAVASCRIPT</KURSADI>
+		</EGITMEN>
+	</EGITMENLER>
+</root>	
